@@ -1,5 +1,6 @@
 .component-button {
     display: inline-flex;
+    height: 50px;
     width: 25%;
     flex: 1 0 auto;
 }
@@ -12,7 +13,7 @@
     background-color: #E0E0E0;
     border: 0;
     font-size: 12px;
-    margin: 0 1px 0 0;
+    margin: 3px 1px 0 0;
     flex: 1 0 auto;
     padding: 0;
 }
